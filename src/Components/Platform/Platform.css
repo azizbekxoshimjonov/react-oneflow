@@ -1,0 +1,25 @@
+.platform {
+    background: rgb(242, 220, 228);
+    display: flex;
+    align-items: center;
+}
+
+.platform__video {
+    background-color: pink;
+}
+
+.right {
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+}
+
+.video {
+    width: 1440px;
+    height: 814px;
+}
+
+.hero__right {
+    width: 1440px;
+    height: 851px;
+}

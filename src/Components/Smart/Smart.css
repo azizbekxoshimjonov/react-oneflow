@@ -1,0 +1,204 @@
+.platform__title {
+    padding-top: 122px;
+    text-align: center;
+    align-items: center;
+}
+
+.forget {
+    float: right;
+    margin-left: 800px;
+    margin-top: 100px;
+
+    h1 {
+        color: rgb(1, 58, 76);
+        font-family: Roboto;
+        font-size: 48px;
+        font-weight: 700;
+        line-height: 54px;
+        letter-spacing: 0.4px;
+        text-align: left;
+        margin-top: 15px;
+    }
+
+    p {
+        color: rgb(1, 58, 76);
+        font-family: Work Sans;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0%;
+        text-align: left;
+        margin-top: 34px;
+    }
+
+    button {
+        width: 127px;
+        height: 40px;
+        border: 1px solid rgb(1, 58, 76);
+        border-radius: 4px;
+        background: rgb(1, 58, 76);
+        color: rgb(255, 255, 255);
+        font-family: Work Sans;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 18px;
+        letter-spacing: 0%;
+        text-align: center;
+        margin-top: 17px;
+    }
+}
+
+.smart {
+    background: rgb(242, 220, 228);
+    background-image: url('../Assets/img/qol.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+
+    height: 2432px;
+
+}
+
+.smart__title {
+    color: rgb(1, 58, 76);
+    font-family: Roboto;
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 80px;
+    letter-spacing: 0.7px;
+    text-align: center;
+    padding-top: 122px;
+}
+
+.smart__box {
+    margin-top: 153px;
+    margin-left: 883px;
+
+    h1 {
+        color: rgb(1, 58, 76);
+        font-size: 48px;
+        font-weight: 700;
+        line-height: 54px;
+        letter-spacing: 0.4px;
+        text-align: left;
+        margin-top: 15px;
+    }
+
+    p {
+        color: rgb(1, 58, 76);
+        font-family: Work Sans;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0%;
+        text-align: left;
+        margin-top: 34px;
+    }
+
+    button {
+        width: 127px;
+        height: 40px;
+        color: rgb(255, 255, 255);
+        font-family: Work Sans;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 18px;
+        letter-spacing: 0%;
+        border: 1px solid rgb(1, 58, 76);
+        border-radius: 4px;
+        background: rgb(1, 58, 76);
+        text-align: center;
+        margin-top: 17px;
+    }
+}
+
+.smart__box__box {
+    h1 {
+        color: rgb(1, 58, 76);
+        font-family: Roboto;
+        font-size: 48px;
+        font-weight: 700;
+        line-height: 54px;
+        letter-spacing: 0.4px;
+        text-align: left;
+        margin-top: 15px;
+    }
+
+    p {
+        color: rgb(1, 58, 76);
+        font-family: Work Sans;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0%;
+        text-align: left;
+        margin-top: 34px;
+    }
+
+    button {
+        width: 127px;
+        height: 40px;
+        color: rgb(255, 255, 255);
+        font-family: Work Sans;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 18px;
+        letter-spacing: 0%;
+        border: 1px solid rgb(1, 58, 76);
+        border-radius: 4px;
+        background: rgb(1, 58, 76);
+        text-align: center;
+        margin-top: 17px;
+    }
+}
+
+.smart__noo {
+    width: 1440px;
+    height: 2432px;
+    border: 1px solid black;
+    margin: 0 auto;
+    display: block;
+}
+
+.smart__box2 {
+    float: right;
+    margin-top: 138px;
+
+    h1 {
+        color: rgb(1, 58, 76);
+        font-family: Roboto;
+        font-size: 48px;
+        font-weight: 700;
+        line-height: 54px;
+        letter-spacing: 0.4px;
+        text-align: left;
+        margin-top: 15px;
+    }
+
+    p {
+        color: rgb(1, 58, 76);
+        font-family: Work Sans;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0%;
+        text-align: left;
+        margin-top: 34px;
+    }
+
+    button {
+        width: 127px;
+        height: 40px;
+        color: rgb(255, 255, 255);
+        font-family: Work Sans;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 18px;
+        letter-spacing: 0%;
+        border: 1px solid rgb(1, 58, 76);
+        border-radius: 4px;
+        background: rgb(1, 58, 76);
+        text-align: center;
+        margin-top: 17px;
+    }
+}
