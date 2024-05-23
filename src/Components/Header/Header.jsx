@@ -41,7 +41,7 @@ function App() {
                   Why Oneflow?
                 </Link>
               </li>
-              <li className='nav__i tem'>
+              <li className='nav__item'>
                 <Link to="jooin" smooth={true} duration={1000}>
                   Learn
                 </Link>
